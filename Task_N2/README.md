@@ -28,8 +28,13 @@ pip install numpy pandas matplotlib scikit-learn
 
 ### 2. Run the program
 ```bash
-python spam_classifier.py k_sepherteladze25_72634.csv
+python Task_N2.py g_gzirishvili25_44721924.csv
 ```
+<img width="698" height="531" alt="image" src="https://github.com/user-attachments/assets/ac0a8044-c43e-4b3a-a6ef-b59b71c5c9db" />
+<img width="637" height="550" alt="image" src="https://github.com/user-attachments/assets/74caea28-77bf-4b0f-b7e8-9ee11964ef85" />
+<img width="637" height="553" alt="image" src="https://github.com/user-attachments/assets/9f9bdcf4-9073-4e5b-b06e-7567d7630845" />
+<img width="636" height="547" alt="image" src="https://github.com/user-attachments/assets/1e2e37e4-6e5a-4561-a618-69e0ba22d516" />
+
 
 ---
 
@@ -86,6 +91,7 @@ Best regards, David
 This email is classified as legitimate as it lacks spam-related patterns.
 
 ---
+<img width="1071" height="483" alt="image" src="https://github.com/user-attachments/assets/8f59f12b-efa9-42c3-a71e-ab9f7be4c869" />
 
 ## Visualizations
 
