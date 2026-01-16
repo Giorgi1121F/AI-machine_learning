@@ -88,22 +88,9 @@ The script produced the following coefficients (from the terminal output):
 The reference line is drawn as: **y = 0.07x + 3.70** (approximated from the provided graph).
 
 ---
+<img width="1197" height="769" alt="image" src="https://github.com/user-attachments/assets/10c92538-ac98-4885-8bb0-06adfec3e8be" />
+<img width="1476" height="466" alt="image" src="https://github.com/user-attachments/assets/1894356e-2a06-407c-85e5-2221c9a8ec30" />
 
-## Screenshots
-
-Upload the screenshots to the repository (recommended folder: `screenshots/`) and ensure the file names match below.
-
-Example structure:
-```
-screenshots/
-  terminal_output.png
-  plot.png
-```
-
-Then the images will appear here:
-
-![Terminal Output](screenshots/terminal_output.png)
-![Visualization](screenshots/plot.png)
 
 ---
 
